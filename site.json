@@ -1,0 +1,16 @@
+{
+    "alunos":[
+        {
+            "id":1,
+            "nome":"Rosa",
+            "num_inscricao":1003,
+            "curso":"Informática"
+        },
+        {
+            "id":2,
+            "nome":"Bea",
+            "num_inscricao":1004,
+            "curso":"Agro" 
+        }
+    ]
+}
